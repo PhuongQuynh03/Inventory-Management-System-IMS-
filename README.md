@@ -28,3 +28,5 @@ _EX: Để sản xuất 1 chiếc bàn, BOM sẽ ghi rõ cần 4 chân gỗ, 1 m
 - Báo cáo & thống kê: Báo cáo tồn kho theo thời gian, Báo cáo nhập- xuất- tồn, Báo cáo sản lượng sản xuất, Báo cáo tình hình cung ứng nguyên liệu
 
 - Phân quyền và Quản lý người dùng: Điều này giúp mọi hoạt động của user một cách minh bạch hơn như vai trò quản trị viên, nhận viên kho, nhân viên mua hàng, nhân viên sản xuất, Tên nhân viên sẽ đi cùng với vai trò (Vd Nguyễn văn A - Nhân viên xuất kho). Phân quyền thao tác từng vai trò, hệ thống tự động lưu lịch sử hoạt động của từng người dùng.
+# Quy trinh nghiệp vụ
+# Flow Chart 
